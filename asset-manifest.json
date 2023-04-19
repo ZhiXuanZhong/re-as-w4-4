@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/re-as-w4-3/static/css/main.d7555213.css",
+    "main.js": "/re-as-w4-3/static/js/main.44cf3f21.js",
+    "index.html": "/re-as-w4-3/index.html",
+    "main.d7555213.css.map": "/re-as-w4-3/static/css/main.d7555213.css.map",
+    "main.44cf3f21.js.map": "/re-as-w4-3/static/js/main.44cf3f21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7555213.css",
+    "static/js/main.44cf3f21.js"
+  ]
+}
